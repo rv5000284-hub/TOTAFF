@@ -5,16 +5,19 @@
 "display": "standalone",
 "background_color": "#060E24",
 "theme_color": "#060E24",
+"description": "TOTA FF Free Fire Tournament App for real users.",
 "icons": [
 {
 "src": "/192.png",
 "sizes": "192x192",
-"type": "image/png"
+"type": "image/png",
+"purpose": "any maskable"
 },
 {
 "src": "/512.png",
 "sizes": "512x512",
-"type": "image/png"
+"type": "image/png",
+"purpose": "any maskable"
 }
 ]
 }
